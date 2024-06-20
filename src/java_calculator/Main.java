@@ -1,10 +1,8 @@
 package java_calculator;
-
-
-public class Main {
+public class Main implements java_calculator {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method git 
 		
 		// creating object of main class
 		MainClass main = new MainClass();
